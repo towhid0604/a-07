@@ -1,0 +1,152 @@
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://i.ibb.co.com/qJXJVCY/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 1000000,
+    "rating": 9.5
+  },
+  {
+    "playerId": 2,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/qJXJVCY/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 1200000,
+    "rating": 9.2
+  },
+  {
+    "playerId": 3,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/qJXJVCY/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 1300000,
+    "rating": 9.3
+  },
+  {
+    "playerId": 4,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/qJXJVCY/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg",
+    "role": "Batsman",
+    "battingType": "Left-hand bat",
+    "biddingPrice": 1400000,
+    "rating": 9.1
+  },
+  {
+    "playerId": 5,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://i.ibb.co.com/qJXJVCY/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg",
+    "role": "All-rounder",
+    "battingType": "Left-hand bat",
+    "biddingPrice": 1500000,
+    "rating": 9.4
+  },
+  {
+    "playerId": 6,
+    "name": "Rohit Sharma",
+    "country": "India",
+    "image": "https://i.ibb.co.com/qJXJVCY/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 1100000,
+    "rating": 9.0
+  },
+  {
+    "playerId": 7,
+    "name": "Hardik Pandya",
+    "country": "India",
+    "image": "https://i.ibb.co.com/qJXJVCY/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg",
+    "role": "All-rounder",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 1500000,
+    "rating": 8.8
+  },
+  {
+    "playerId": 8,
+    "name": "Shreyas Iyer",
+    "country": "India",
+    "image": "https://i.ibb.co.com/qJXJVCY/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 1400000,
+    "rating": 8.5
+  },
+  {
+    "playerId": 9,
+    "name": "Mohammad Rizwan",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/qJXJVCY/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 1150000,
+    "rating": 8.6
+  },
+  {
+    "playerId": 10,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "image": "https://i.ibb.co.com/qJXJVCY/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg",
+    "role": "Batsman",
+    "battingType": "Left-hand bat",
+    "biddingPrice": 1250000,
+    "rating": 8.9
+  },
+  {
+    "playerId": 11,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/qJXJVCY/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 1350000,
+    "rating": 9.0
+  },
+  {
+    "playerId": 12,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://i.ibb.co.com/qJXJVCY/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 1300000,
+    "rating": 9.1
+  },
+  {
+    "playerId": 13,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://i.ibb.co.com/qJXJVCY/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 1200000,
+    "rating": 9.2
+  },
+  {
+    "playerId": 14,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/qJXJVCY/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 1400000,
+    "rating": 9.3
+  },
+  {
+    "playerId": 15,
+    "name": "Rassie van der Dussen",
+    "country": "South Africa",
+    "image": "https://i.ibb.co.com/qJXJVCY/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 1350000,
+    "rating": 8.7
+  }
+]
