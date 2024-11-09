@@ -5,7 +5,7 @@ const Footer = () => {
         <div
           className="hero w-3/4 mx-auto rounded-lg mb-5 bg-white"
           style={{
-            backgroundImage: "url(../../src/assets/bg-shadow.png)",
+            backgroundImage: "url(https://i.ibb.co.com/1RwfDDK/bg-shadow.png)",
             backgroundSize: "cover",
             backgroundPosition: "center",
           }}
@@ -45,7 +45,7 @@ const Footer = () => {
       <div className="bg-black pt-[150px] text-white">
         <div className="flex justify-center">
           <img
-            src="../../src/assets/logo-footer.png"
+            src="https://i.ibb.co.com/sQQy0C4/logo-footer.png"
             alt="Company Logo"
             className="max-w-xs"
           />

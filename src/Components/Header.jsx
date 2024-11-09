@@ -3,7 +3,7 @@ const Header = ({ coin }) => {
     <div className="py-5 sticky top-0 z-50 bg-white shadow-md">
       <div className=" mx-auto container flex justify-between items-center ">
         <div>
-          <img src="../src/assets/logo.png" alt="Logo" />
+          <img src="https://i.ibb.co.com/VSrMWcD/logo.png" alt="Logo" />
         </div>
         <div className="flex text-2xl gap-5 items-center">
           <ul className="flex gap-5 text-gray-500">

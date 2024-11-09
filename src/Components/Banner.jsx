@@ -3,7 +3,7 @@ const Banner = ({ coinHandle }) => {
     <div className="relative flex items-center justify-center py-[40px]">
       <div>
         <img
-          src="../../src/assets/bg-shadow.png"
+          src="https://i.ibb.co.com/1RwfDDK/bg-shadow.png"
           alt=""
           className="absolute inset-0 w-full h-full object-cover rounded-lg"
         />
@@ -12,7 +12,7 @@ const Banner = ({ coinHandle }) => {
       <div className="text-center relative p-4">
         <div className="flex justify-center">
           <img
-            src="../../src/assets/banner-main.png"
+            src="https://i.ibb.co.com/fHGtZdn/banner-main.png"
             alt=""
             className="mx-auto"
           />
